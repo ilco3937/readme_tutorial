@@ -40,4 +40,7 @@ print("Hello world!")
 > 오예!
 > ㄴㅇㄹ
 
+이 코드에서 가장 중요한 변수는 `hello`이다.
+
+
 ![천사 이미지](https://i.namu.wiki/i/qUkEFaPJPd-ZdudRFZ60UF8U2VOogQG75_qHUPylo5cHpa1VzZBaZcNuQf8HnSpf-fSaHy1ZajEgXaR4bJ1K6Q.webp)
