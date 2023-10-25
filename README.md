@@ -18,7 +18,7 @@ README.md 파일을 수정하여 내
 
 1. 순서가 있는 리스트
    1. 순서2-1
-   2. 순서2-2
+   1. 순서2-2
       1. ㅁㄴㅇㄹ
       1. ㅋㅌㅊㅍ
       1. ㄴㅇㄹ 
@@ -27,6 +27,9 @@ README.md 파일을 수정하여 내
 
 ### 소제목
 
+4. ㄴㅇㄹ
+1. 
+
 ```java
 print("Hello world!")
 ```
@@ -34,3 +37,6 @@ print("Hello world!")
 
 > 인용문
 > 오예!
+> ㄴㅇㄹ
+
+![천사 이미지](https://i.namu.wiki/i/qUkEFaPJPd-ZdudRFZ60UF8U2VOogQG75_qHUPylo5cHpa1VzZBaZcNuQf8HnSpf-fSaHy1ZajEgXaR4bJ1K6Q.webp)
