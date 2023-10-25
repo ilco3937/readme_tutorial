@@ -34,6 +34,7 @@ README.md 파일을 수정하여 내
 print("Hello world!")
 ```
 
+---
 
 > 인용문
 > 오예!
